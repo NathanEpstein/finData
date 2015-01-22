@@ -2,19 +2,19 @@
 
 ##Description
 
-A compact R library to easily gather and analyze financial price and trading data from Yahoo Fiance. Simple functions let the user get price data, returns, covariance matrices, and performance statistics.
+A compact R library to easily gather and analyze financial price and trading data from Yahoo Finance. Simple functions let the user get price data, returns, covariance matrices, and performance statistics.
 
 ##Functions
 
-#### getData
+### getData
 <img src="/imgRdoc/getData.png">
 
-#### getReturns
+### getReturns
 <img src="/imgRdoc/getReturns.png">
 
-#### getCovar
+### getCovar
 <img src="/imgRdoc/getCovar.png">
 
-#### getStats
+### getStats
 <img src="/imgRdoc/getStats.png">
 
