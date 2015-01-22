@@ -1,7 +1,7 @@
 Package: finData
 Title: What the Package Does (one line, title case)
 Version: 0.1.0.0000
-Authors@R: person("Nathan", "Epstein", , "ne2210@columbie.edu", role = c(""))
+Authors@R: person("Nathan", "Epstein", , "ne2210@columbie.edu", role = c("aut","cre"))
 Description: Provides simple functions to gather and analyze financial time series data.
 Depends: R (>= 3.1.1)
 License: MIT
